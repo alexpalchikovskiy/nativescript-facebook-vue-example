@@ -18,3 +18,5 @@ In created:
 And use method:
 
 <code>Facebook.login((err, fbData) => { });</code>
+
+<a href="https://github.com/AlexPal4inskiy/nativescript-facebook-vue-example/blob/master/Home.vue">Example Home.vue from vue-cli-template</a>
